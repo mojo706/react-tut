@@ -1,0 +1,11 @@
+build/
+npm-debug*
+npm-debug.log
+coverage/
+.vscode/
+.env
+.idea
+*eslintignore
+docker-compose.override.yml
+.DS_Store
+node_modules
